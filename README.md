@@ -1,8 +1,8 @@
-# wabot-aq
+# TEST-ON
 
-Simple WhatsApp Bot
+Simple WhatsApp Bot By NURUTOMO
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IrfnCode/test-on)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
